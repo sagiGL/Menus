@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\B16 Ex04 Idanshuraty 201580990 SagiGleizer 305746588\Ex04.Menus.Interfaces\bin\Debug\B16Ex04 Idanshuraty 201580990 SagiGleizer.dll
+\\Mac\Home\Desktop\B16 Ex04 Idanshuraty 201580990 SagiGleizer 305746588\Ex04.Menus.Interfaces\bin\Debug\B16Ex04 Idanshuraty 201580990 SagiGleizer.pdb
+\\Mac\Home\Desktop\B16 Ex04 Idanshuraty 201580990 SagiGleizer 305746588\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\B16 Ex04 Idanshuraty 201580990 SagiGleizer 305746588\Ex04.Menus.Interfaces\obj\Debug\B16Ex04 Idanshuraty 201580990 SagiGleizer.dll
+\\Mac\Home\Desktop\B16 Ex04 Idanshuraty 201580990 SagiGleizer 305746588\Ex04.Menus.Interfaces\obj\Debug\B16Ex04 Idanshuraty 201580990 SagiGleizer.pdb
